@@ -120,6 +120,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[ECharts](https://github.com/hustcc/mcp-echarts)** - Generate visual charts using [ECharts](https://echarts.apache.org) with AI MCP dynamically, used for chart generation and data analysis.
 - **[EdgeOne Pages MCP](https://github.com/TencentEdgeOne/edgeone-pages-mcp)** - An MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
 - **[EduBase](https://github.com/EduBase/MCP)** - Interact with [EduBase](https://www.edubase.net), a comprehensive e-learning platform with advanced quizzing, exam management, and content organization capabilities
+- **[emem](https://github.com/Vortx-AI/emem)** - Shared, verifiable Earth memory for AI agents. Recall elevation, vegetation, flood, fire and air-quality facts for any place, each signed with an ed25519 receipt verifiable offline. 110 MCP tools, no API key to read. Remote endpoint at `https://emem.dev/mcp`.
 - **[eSignatures](https://github.com/esignaturescom/mcp-server-esignatures)** - Contract and template management for drafting, reviewing, and sending binding contracts.
 - **[ELEMENT.FM](https://gitlab.com/elementfm/mcp)** - Create and publish unlimited podcast shows and episodes with [ELEMENT.FM](https://element.fm)
 - **[ElevenLabs](https://github.com/elevenlabs/elevenlabs-mcp)** - The official ElevenLabs MCP server
